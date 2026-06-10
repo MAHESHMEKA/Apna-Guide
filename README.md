@@ -42,7 +42,7 @@ TSP has real-world applications in:
 ```bash
 1. Clone the repository: git clone https://github.com/coddingjatin/Apna-Guide.git
 
-2. cd Apna-Guide
+2. cd apna-guide-tsp
 
 3. Install required packages: pip install -r requirements.txt
 
